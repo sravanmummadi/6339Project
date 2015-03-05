@@ -1,0 +1,27 @@
+Project Title : Understanding the factors that improve Business ratings on yelp.
+
+Team information: member names: Sravan Kumar Reddy Mummadi
+
+Objective and overview of the project. Why is it interesting and significant? : 
+	Our project's main objective is to improve ratings and positive reviews of businesses that consistently under-perform on yelp. This project provides enormous opportunities to apply data mining models and techniques. It also answers some interesting queries like how much existing yelp ratings and reviews affect the future ratings and reviews.It helps in business making decisions similar to "Is it feasible to open a Chinese/Indian restaurant at some specific location" "how far on average can a user travel just to enjoy their favourite food items" " how distance from home/work place affect the ratings"? . This is very significant to business owners as it plays very important role in improving their revenues.
+
+What are the data mining tasks you will perform on the Yelp dataset? Classification, clustering, association rules and other required models to suggest new products/listings, locations to open/expand a new store/restaurant.
+
+What do you plan to deliver at the end of the semester? How would you present the outcome of your study? How would you demo your work? What will you place on your website? 
+
+ I would like to deliver data analytic results which focuses on issues that leads to poor ratings or reviews of any business. I would like to present as a research paper and pictorial diagrams (histograms, pie charts). All the intermediate results and models used will be clearly explained in the paper. I would like to present all the analysed data and diagrams on the website. Graphs will be used to depict how 'good ratings' and reviews are being followed every month.
+	
+
+What are the challenges in this project? 
+ We expect to face numerous challenges in this project like finding the accurate subject of the review and the reason of poor rating. Finding the subject of the review is very important to identify the real cause of the poor rating. It is also needed to reason out many conclusions.
+	
+
+How do you plan to address the challenges? How would you design and implement the solution? 
+	We plan to address the challenges by taking help of mathematical models and nltk parser to parse text and finding the accurate subject of the review.
+	
+How would you evaluate the efficacy of your solution? 
+	We also plan to model uncertainty in our models and conclusions that we . We also plan to evaluate thoroughly with testing methodologies like hypothesis,null,alternative testing. 
+	
+	
+How would you partition the tasks and coordinate among team members? NA ( only me in the team ) 
+	
