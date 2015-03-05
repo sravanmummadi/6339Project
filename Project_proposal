@@ -3,7 +3,14 @@ Project Title : Understanding the factors that improve Business ratings on yelp.
 Team information: member names: Sravan Kumar Reddy Mummadi
 
 Objective and overview of the project. Why is it interesting and significant? : 
-	Our project's main objective is to improve ratings and positive reviews of businesses that consistently under-perform on yelp. This project provides enormous opportunities to apply data mining models and techniques. It also answers some interesting queries like how much existing yelp ratings and reviews affect the future ratings and reviews.It helps in business making decisions similar to "Is it feasible to open a Chinese/Indian restaurant at some specific location" "how far on average can a user travel just to enjoy their favourite food items" " how distance from home/work place affect the ratings"? . This is very significant to business owners as it plays very important role in improving their revenues.
+	Our project's main objective is to improve ratings and positive reviews of businesses
+	that consistently under-perform on yelp. This project provides enormous opportunities 
+	to apply data mining models and techniques. It also answers some interesting queries 
+	like how much existing yelp ratings and reviews affect the future ratings and reviews.
+	It helps in business making decisions similar to "Is it feasible to open a Chinese/Indian restaurant at some specific location"
+	"how far on average can a user travel just to enjoy their favourite food items" 
+	" how distance from home/work place affect the ratings"? .
+	This is very significant to business owners as it plays very important role in improving their revenues.
 
 What are the data mining tasks you will perform on the Yelp dataset? Classification, clustering, association rules and other required models to suggest new products/listings, locations to open/expand a new store/restaurant.
 
