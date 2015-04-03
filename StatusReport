@@ -1,5 +1,7 @@
 Understanding the factors that improve Business ratings on Yelp (Status Report)
 
+
+
 Tools and Environment setup 
 
 Most of the time spent has been in setting up tools required for analysing the data.
@@ -16,4 +18,12 @@ I am currently writing parsing code to parse complex attributes (nested attribut
 
 I also performed data wrangling activities
 
+
+Next steps:
+
+
+1) Parse reviews and run sentiment analysis.
+2) Extract factors for a business to get poor(1,2) and good(3,4,5) ratings ( grouping by business )
+3) Extract factors for a business to get good ratings (grouping by business )
+4) 
 
