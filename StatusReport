@@ -2,7 +2,7 @@ Understanding the factors that improve Business ratings on Yelp (Status Report)
 
 Objective:
    Model a system that provides suggestions for getting more positive reviews and to improving ratings - to get more 3/4/5 ratings - and  of businesses that consistently get 1/2 ratings on yelp.
- We focus on the businesses that get 70% 1/2 ratings and 30% 3,4,5 ratings and try to narrow down factors that improve ratings.
+ We focus on the businesses that get 70% 1 or 2 ratings and 30% 3 or 4 or 5 ratings and try to narrow down factors that improve ratings.
 
 Tools and Environment setup 
 
