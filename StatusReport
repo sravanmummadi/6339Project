@@ -32,5 +32,6 @@ Next steps:
 2) Extract factors for a business to get poor(1,2) and good(3,4,5) ratings ( grouping by business type and area)
 3) Analysing top negative and positive factors and its effect on ratings. ( example: how much negative affect does it have for the factor "not having wifi"
 4) How much influence one factor has on other factors.( distance vs taste , distance vs prices, taste vs ambience )
-5) Finally, extracting top factors that has a potential to increase good ratings atleast from 30% to 50%.
+5) Extract top factors that has a potential to increase good ratings atleast from 30% to 50%.
+6) Create a website and place the top factors for each business type.
 
