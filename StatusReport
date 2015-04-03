@@ -1,5 +1,7 @@
 Understanding the factors that improve Business ratings on Yelp (Status Report)
 
+Objective:
+   Model a system that provides suggestions for improving ratings( to get more 3/4/5 ratings) and positive reviews of businesses that consistently get 1/2 ratings on yelp.
 
 
 Tools and Environment setup 
@@ -16,7 +18,8 @@ I had to write python code to convert json format to csv for the data mining too
 
 I am currently writing parsing code to parse complex attributes (nested attributes) in the json file.
 
-I also performed data wrangling activities for some json files.
+I also performed data wrangling activities for some the data files.
+
 yelp_academic_dataset_business
 yelp_academic_dataset_checkin
 yelp_academic_dataset_tip
@@ -25,9 +28,8 @@ yelp_academic_dataset_user
 
 Next steps:
 
-
 1) Parse reviews data and run sentiment analysis.
 2) Extract factors for a business to get poor(1,2) and good(3,4,5) ratings ( grouping by business )
-3) Run sentiment analysis
+3) Run sentiment analysis.
 4) 
 
