@@ -2,7 +2,7 @@ Understanding the factors that improve Business ratings on Yelp (Status Report)
 
 Objective:
    Model a system that provides suggestions for getting more positive reviews and to improving ratings - to get more 3/4/5 ratings - and  of businesses that consistently get 1/2 ratings on yelp.
-
+ We focus on the businesses that get 70% 1/2 ratings and 30% 3,4,5 ratings and try to narrow down factors that improve ratings.
 
 Tools and Environment setup 
 
@@ -29,7 +29,7 @@ yelp_academic_dataset_user
 Next steps:
 
 1) Parse reviews' data and run sentiment analysis.
-2) Extract factors for a business to get poor(1,2) and good(3,4,5) ratings ( grouping by business and location)
-3) Extracting information of specific users those who gave negative and positive reviews for the same businesses
-4) 
+2) Extract factors for a business to get poor(1,2) and good(3,4,5) ratings ( grouping by business type and area)
+3) Analysing top negative and positive factors and its effect on ratings. ( example: how much negative affect does it have for the factor "not having wifi"
+4) Analysing top 
 
