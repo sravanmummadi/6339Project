@@ -8,9 +8,11 @@ Due to large volumes of data involved, I decided to use amazon Ec cluster servic
 
 I have successfully set up Amazon Ec2 instances until now.  
 
-Also, to run tests on I installed some popular data mining tools (rapid miner, Gephi, Tableau Public 8.3) and trying to run aggregate functions on the required attributes.
+Also, to run tests on sample data,  I installed some popular data mining tools (rapid miner, Gephi, Tableau Public 8.3) and trying to run aggregate functions on the required attributes.
 
-I had to write python code to convert json format to csv for the data mining tools to interpret the data. I am currently writing parsing code to parse complex attributes (nested attributes) in the json file.
+I had to write python code to convert json format to csv for the data mining tools to interpret the data. 
+
+I am currently writing parsing code to parse complex attributes (nested attributes) in the json file.
 
 I also performed data wrangling activities
 
