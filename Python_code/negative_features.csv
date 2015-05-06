@@ -1,0 +1,8 @@
+features {'PK6aSizckHFWk8i0oxt5DA': [' service is terrible', ' food is hot']}
+PK6aSizckHFWk8i0oxt5DA [' service is terrible']
+features {'PK6aSizckHFWk8i0oxt5DA': [' service is terrible', ' food is hot', ' manager was rude']}
+PK6aSizckHFWk8i0oxt5DA [' service is terrible', ' service is terrible', ' manager was rude']
+features {'PK6aSizckHFWk8i0oxt5DA': [' service is terrible', ' food is hot', ' manager was rude']}
+PK6aSizckHFWk8i0oxt5DA [' service is terrible', ' service is terrible', ' manager was rude', ' service is terrible', ' manager was rude']
+features {'PK6aSizckHFWk8i0oxt5DA': [' service is terrible', ' food is hot', ' manager was rude']}
+PK6aSizckHFWk8i0oxt5DA [' service is terrible', ' service is terrible', ' manager was rude', ' service is terrible', ' manager was rude', ' service is terrible', ' manager was rude']
