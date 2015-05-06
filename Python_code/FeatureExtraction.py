@@ -122,10 +122,10 @@ def csvReadWrite():
                             tagText(review)
                 #print("features",attribute_review_corpus)
                 review_csvfile.seek(0,0)
-                k=k+1
-                if k>10:
-                    negative_attribute()                   
-                    sys.exit()
+                
+                
+                negative_attribute()                   
+                
                             
                 #review_csvfile.seek(0,0) 
     
